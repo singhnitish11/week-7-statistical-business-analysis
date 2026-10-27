@@ -1,0 +1,5 @@
+Hypothesis Testing Results
+T-Statistic: -367.9058
+P-Value: 0.0000
+Significance Level: 0.05
+Result: Significant difference from 100
